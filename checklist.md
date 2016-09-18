@@ -1,6 +1,4 @@
-# Chccklist
-
-## 02016-08
+# Checklist
 
 ## 02016-09
 
